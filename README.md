@@ -1,6 +1,4 @@
-# c-fundamentals
-
-# Projects to be done
+# c-fundamentals - Projects to be done
 
 ## Foundational C Programming Projects:
 
