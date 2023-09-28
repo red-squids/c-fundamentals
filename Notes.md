@@ -2,6 +2,7 @@
 
 ## Type Specifiers
 
-|double | "%lf"|
-|--------|------|
-character
+|double   |%lf   |
+|---------|------|
+|character|%c"   |
+|---------|------|
